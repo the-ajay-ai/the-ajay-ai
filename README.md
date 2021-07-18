@@ -1,4 +1,4 @@
-<center>### Hi there 👋</center
+<center>### Hi there 👋</center>
 
 <!--
 **the-ajay-ai/the-ajay-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
