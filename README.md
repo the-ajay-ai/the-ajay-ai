@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm AJAY</h1>
+<h3 align="center">A Energetic & passionate Data Science enthusiast from India.</h3>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0CF724&lines=Hi+%F0%9F%91%8B%2C+I'm+AJAY;%E2%80%8D%F0%9F%92%BB+Python+Programmer.;%F0%9F%94%AD+I%E2%80%99m+currently+working+as+;Data+Science+Intern;At+Solytics-Partners.;Loves+to+try+new+things.;)](https://git.io/typing-svg)
 
-<h3 align="center">A Energetic & passionate Data Science enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-ajay-ai&label=Profile%20views&color=0e75b6&style=flat" alt="the-ajay-ai" /> </p>
 
