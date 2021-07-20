@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-ajay-ai&label=Profile%20views&color=0e75b6&style=flat" alt="the-ajay-ai" /> </p>
 
-- 🌱 I’m currently learning **Big Data,PySpark.**
+<!-- - 🌱 I’m currently learning **Big Data,PySpark.** -->
 
 - 💬 Ask me about **AI,ML,DL.**
 
