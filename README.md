@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **AI,ML,DL.**
 
 - 📫 How to reach me **ajaysaini738@gmail.com**
+- CV **https://the-ajay-ai.streamlit.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
